@@ -5,19 +5,19 @@
 			<div class="row justify-content-start align-items-center">
 				<div class="col-lg-5">
 					<div class="about_img">
-						<img class="" src="img/about-us.png" alt="">
+						<img class="" src="images/profile.jpg" alt="">
 					</div>
 				</div>
 
 				<div class="offset-lg-1 col-lg-5">
 					<div class="main_title text-left">
-						<p class="top_text">About me <span></span></p>
+						<p class="top_text">{{myData.A}} <span></span></p>
 						<h4>
-						Student in major Software Engineering
+						{{myData.con}} 
 						</h4
                         >
 						<p>
-		{{myData.about1}}
+	                	{{myData.about1}}
 
 						</p>
 					</div>
@@ -32,9 +32,9 @@
                       <h4 class="text-uppercase">Personal information</h4>
                         <ul class="list"></ul>
                     {{#with myData.PN}}
-                        <li><span>high</span>:  {{high}} </i><i
+                        <li><span>High</span>:  {{high}} </i><i
                         class="fa fa-star"></i></li>
-                        <li><span>weight</span>: {{weight}}</li>
+                        <li><span>Weight</span>: {{weight}}</li>
                         <li><span>Email</span>: {{Email}}</li>
                         <li><span>Facebook</span>: {{Facebook}}</li>
                         <li><span>Address</span>: {{Address}}</li>

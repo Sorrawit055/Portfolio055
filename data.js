@@ -1,5 +1,17 @@
 const data={
-    
+    "A" : "Aboutme",
+    "W1" : "MY WORKEXPERIENCE",
+    "W2" : "WORKEXPERIENCE",
+    "S1" : "MY SKILL",
+    "S2" : "SKILL",
+    "E1" : "MY Education",
+    "E2" : "Education",
+
+    "Work2" : "I can create code and make my website .I can write code php,java,css",
+    "Work1" : "MY EXPERIENCE IN CLASS",
+
+    "about2" : "Student in major Software Engineering",
+
     "about1" : "Name Mr. Sorawit Eknarongphan Age 20 years, born on October 23, 1999 Nickname: James, elementary school education at Amnuaywit School Graduated from secondary school at Sirindhorn Rat Wittayalai School Studying tertiary education at Nakhon Pathom Rajabhat University Faculty of Science and Technology in Sawyer Engineering Like about computers In admission Because wanting to learn alone with computers Even if you want to try",
     "name" : "Sorrawit Eaknarongpan",
     "PN" : {
