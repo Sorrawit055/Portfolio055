@@ -6,15 +6,14 @@
   "scripts": {
     "start": "node index.js"
   },
- "engines": {
+  "engines": {
     "node": "v12.18.0",
     "npm": "6.14.4"
- },
+  },
   "author": "Sorrawit Eaknarongpan",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
     "express-handlebars": "^5.1.0"
-    
   }
 }
