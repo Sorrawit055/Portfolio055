@@ -1,4 +1,4 @@
-const data={
+const myData={
     "A" : "Aboutme",
     "W1" : "MY WORKEXPERIENCE",
     "W2" : "WORKEXPERIENCE",
@@ -12,7 +12,7 @@ const data={
 
     "about2" : "Student in major Software Engineering",
 
-    "about1" : "Name Mr. Sorawit Eknarongphan Age 20 years, born on October 23, 1999 Nickname: James, elementary school education at Amnuaywit School Graduated from secondary school at Sirindhorn Rat Wittayalai School Studying tertiary education at Nakhon Pathom Rajabhat University Faculty of Science and Technology in Sawyer Engineering Like about computers In admission Because wanting to learn alone with computers Even if you want to try",
+    "about1" : "Name Mr. Sorawit Eknarongphan Age 21 years, born on October 23, 1999 Nickname: James, elementary school education at Amnuaywit School Graduated from secondary school at Princess Sirindhorn's College Studying tertiary education at Nakhon Pathom Rajabhat University Faculty of Science and Technology in Software Engineering Like about computers In admission Because want to learn Computer",
     "name" : "Sorrawit Eaknarongpan",
     "PN" : {
         "high" : "173 Cm",
@@ -34,4 +34,4 @@ const data={
     
   
 };
-module.exports = data;
+module.exports = myData;
